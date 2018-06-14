@@ -1,0 +1,26 @@
+.round-corner-div {
+  width: 700px;
+  height: 150px;
+  margin: 0 auto;
+  background: #aaa;
+  border-radius: 15px;
+  padding: 20px;
+  position: relative;
+}
+.buttons {
+  position: absolute;
+  bottom: 20px;
+}
+.btn {
+  background: #49ADDB;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  white-space: nowrap;
+  padding: 10px 15px;
+  border-radius: 20px;
+}
+.mr-70 {
+  margin-right: 70px;
+}
